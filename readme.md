@@ -11,6 +11,11 @@ Puts the excuse in context
 
 **.EXAMPLE**
 `Get-Excuse.ps1`
+Secretary plugged hairdryer into UPS
+
+**.EXAMPLE**
+`Get-Excuse.ps1 -Format`
+It's not working? Probably lightning strikes.
 
 **.LINK**
 http://pages.cs.wisc.edu/~ballard/bofh/
